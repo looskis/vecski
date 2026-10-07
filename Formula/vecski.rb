@@ -2,7 +2,7 @@ class Vecski < Formula
   desc "API server that fits and applies translators between embedding spaces"
   homepage "https://github.com/looskis/vecski"
   url "https://github.com/looskis/vecski/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "24d143d872568625069d44a0a87f15575d91d44e73bff7e1ecdd637c85233e9f"
+  sha256 "56f154f218ab30b5d62bad0553c734a2f01804cf5107ad325aa1b6839e151153"
   license "Apache-2.0"
   head "https://github.com/looskis/vecski.git", branch: "main"
 

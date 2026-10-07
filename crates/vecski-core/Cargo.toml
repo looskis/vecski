@@ -1,0 +1,21 @@
+[package]
+name = "vecski-core"
+description = "Closed-form embedding-space translators (Procrustes, ridge) with evaluation and safetensors I/O"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+readme.workspace = true
+keywords.workspace = true
+categories.workspace = true
+
+[dependencies]
+faer.workspace = true
+rayon.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+safetensors.workspace = true
+utoipa.workspace = true
+
+[dev-dependencies]
